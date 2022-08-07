@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=nemu1k5ma&show_icons=true&theme=default&count_private=true) | ![nemu1k5ma](https://count.getloli.com/get/@nemu1k5ma) |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=nemu1k5ma&show_icons=true&theme=tokyonight&count_private=true) | ![nemu1k5ma](https://count.getloli.com/get/@nemu1k5ma?theme=moebooru) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
